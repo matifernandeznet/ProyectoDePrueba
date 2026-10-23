@@ -1,4 +1,3 @@
-```python
 def calculadora():
     while True:
         print("\n===== CALCULADORA =====")
@@ -65,4 +64,4 @@ def calculadora():
 
 
 calculadora()
-```
+
